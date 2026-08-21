@@ -30,7 +30,7 @@ export default function ContactForm() {
             <div className="space-y-4">
               <h2 className="text-4xl md:text-5xl font-serif font-bold">Let's Create <span className="text-gold">Magic</span> Together</h2>
               <p className="text-white/60 leading-relaxed">
-                Ready to capture your story? Fill out the form below or reach out directly via WhatsApp. 
+                Ready to capture your story? Fill out the form below or reach out directly via WhatsApp.
                 We'll get back to you within 24 hours to discuss your vision.
               </p>
             </div>
