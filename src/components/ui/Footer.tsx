@@ -12,7 +12,8 @@ export default function Footer() {
           </h3>
           <p className="text-white/50 text-sm leading-relaxed max-w-xs">
             Capturing your most precious moments with elegance and sophistication. 
-            Specializing in weddings, portraits, and commercial photography.
+            Specializing in weddings, portraits, and commercial photography .<>
+            WE ARE EXCITED TO TAKE YOUR PROJECT.
           </p>
           <div className="flex gap-4">
             <a 
